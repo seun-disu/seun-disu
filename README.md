@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seun-disu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning DEvOps
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me seunds@gmail.com
 

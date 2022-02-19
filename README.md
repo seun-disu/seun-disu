@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seun-disu
-- 👀 I’m interested in DevOps/SRE
+- 👀 I’m interested in everything DevOps/SRE
 - 🌱 I’m currently working as DevOps/SRE Engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me seunds@gmail.com
